@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Stream\Stream.csproj">
-      <Project>{e42bc100-d95e-4c27-a576-3c30a373c361}</Project>
-      <Name>Stream</Name>
+    <ProjectReference Include="..\StringStream\StringStream.csproj">
+      <Project>{e552c864-7642-4591-bbe1-f7c3a2749046}</Project>
+      <Name>StringStream</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

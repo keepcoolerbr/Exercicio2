@@ -6,3 +6,11 @@ C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\bin\Debug\Stream.pdb
 C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\obj\Debug\Aplication.csprojResolveAssemblyReference.cache
 C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\obj\Debug\Aplication.exe
 C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\obj\Debug\Aplication.pdb
+C:\Git\Exercicio2\Aplication\obj\Debug\Aplication.csprojResolveAssemblyReference.cache
+C:\Git\Exercicio2\Aplication\obj\Debug\Aplication.exe
+C:\Git\Exercicio2\Aplication\obj\Debug\Aplication.pdb
+C:\Git\Exercicio2\Aplication\bin\Debug\Aplication.exe.config
+C:\Git\Exercicio2\Aplication\bin\Debug\Aplication.exe
+C:\Git\Exercicio2\Aplication\bin\Debug\Aplication.pdb
+C:\Git\Exercicio2\Aplication\bin\Debug\StringStream.dll
+C:\Git\Exercicio2\Aplication\bin\Debug\StringStream.pdb
