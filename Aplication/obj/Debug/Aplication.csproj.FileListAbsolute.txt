@@ -1,0 +1,8 @@
+C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\bin\Debug\Aplication.exe.config
+C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\bin\Debug\Aplication.exe
+C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\bin\Debug\Aplication.pdb
+C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\bin\Debug\Stream.dll
+C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\bin\Debug\Stream.pdb
+C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\obj\Debug\Aplication.csprojResolveAssemblyReference.cache
+C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\obj\Debug\Aplication.exe
+C:\Users\jeferson.GDR7\Desktop\Stream\Aplication\obj\Debug\Aplication.pdb
