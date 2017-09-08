@@ -34,6 +34,11 @@ namespace StringStream
             return this.stream.Length > count;
         }
 
+        public int getCount()
+        {
+            return count;
+        }
+
         public char firstChar(IStream input)
         {
             char c;
@@ -41,6 +46,22 @@ namespace StringStream
             while (input.hasNext())
             {
                 c = input.getNext();
+
+                //Devemos sempre verificar se não se trata do primeiro caractere, para evitar um retorno incorreto
+                if (getCount() > 1)
+                {
+                    if (!EhConsoante(c))
+                    {
+                        //Verificamos a quantidade de repetiçoes dessa vogal
+                        int qtd = QuantidadeVogal(c);
+
+                        //Se só existir uma vogal, encontramos um resultado válido
+                        if (qtd == 1)
+                        {
+                            return c;
+                        }
+                    }
+                }
 
                 //Sabemos que a regra é encontrar uma vogal após uma consoante, então sempre iniciamos verificando se trata de uma consoante
                 if (EhConsoante(c))
@@ -65,25 +86,8 @@ namespace StringStream
                         }
                         else
                         {
-                            //Caso seja uma consoante seguida de outra consoante, temos que continuar a verificação do próximo char e verificar se é vogal
-                            if (input.hasNext())
-                            {
-                                //Obtendo o próximo caractere
-                                c = input.getNext();
-
-                                //Verificamos se esse caractere obtido trata-se de uma vogal
-                                if (!EhConsoante(c))
-                                {
-                                    //Verificamos a quantidade de repetiçoes dessa vogal
-                                    int qtd = QuantidadeVogal(c);
-
-                                    //Se só existir uma vogal, encontramos um resultado válido
-                                    if (qtd == 1)
-                                    {
-                                        return c;
-                                    }
-                                }
-                            }
+                            //Se for 2 consoante seguidas, utilizamos a recursividade para obter o próximo caractere e efetuar as validações
+                            return firstChar(input);
                         }
                     }
                 }
