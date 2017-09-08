@@ -5,10 +5,10 @@ C:\Users\jeferson.GDR7\Desktop\Stream\Testes\bin\Debug\Stream.dll
 C:\Users\jeferson.GDR7\Desktop\Stream\Testes\bin\Debug\Stream.pdb
 C:\Users\jeferson.GDR7\Desktop\Stream\Testes\obj\Debug\Testes.dll
 C:\Users\jeferson.GDR7\Desktop\Stream\Testes\obj\Debug\Testes.pdb
-C:\Git\Exercicio2\Testes\obj\Debug\Testes.csprojResolveAssemblyReference.cache
-C:\Git\Exercicio2\Testes\obj\Debug\Testes.dll
-C:\Git\Exercicio2\Testes\obj\Debug\Testes.pdb
 C:\Git\Exercicio2\Testes\bin\Debug\Testes.dll
 C:\Git\Exercicio2\Testes\bin\Debug\Testes.pdb
 C:\Git\Exercicio2\Testes\bin\Debug\StringStream.dll
 C:\Git\Exercicio2\Testes\bin\Debug\StringStream.pdb
+C:\Git\Exercicio2\Testes\obj\Debug\Testes.csprojResolveAssemblyReference.cache
+C:\Git\Exercicio2\Testes\obj\Debug\Testes.dll
+C:\Git\Exercicio2\Testes\obj\Debug\Testes.pdb

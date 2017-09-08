@@ -1,10 +1,9 @@
-C:\Git\Exercicio2\StringStream\bin\Debug\StringStream.dll
-C:\Git\Exercicio2\StringStream\bin\Debug\StringStream.pdb
-C:\Git\Exercicio2\StringStream\obj\Debug\StringStream.csprojResolveAssemblyReference.cache
-C:\Git\Exercicio2\StringStream\obj\Debug\StringStream.dll
-C:\Git\Exercicio2\StringStream\obj\Debug\StringStream.pdb
 C:\Users\jeferson.GDR7\Desktop\Stream\StringStream\bin\Debug\StringStream.dll
 C:\Users\jeferson.GDR7\Desktop\Stream\StringStream\bin\Debug\StringStream.pdb
 C:\Users\jeferson.GDR7\Desktop\Stream\StringStream\obj\Debug\StringStream.csprojResolveAssemblyReference.cache
 C:\Users\jeferson.GDR7\Desktop\Stream\StringStream\obj\Debug\StringStream.dll
 C:\Users\jeferson.GDR7\Desktop\Stream\StringStream\obj\Debug\StringStream.pdb
+C:\Git\Exercicio2\StringStream\bin\Debug\StringStream.dll
+C:\Git\Exercicio2\StringStream\bin\Debug\StringStream.pdb
+C:\Git\Exercicio2\StringStream\obj\Debug\StringStream.dll
+C:\Git\Exercicio2\StringStream\obj\Debug\StringStream.pdb
